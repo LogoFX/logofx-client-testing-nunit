@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "Attest.Tests.NUnit": "1.1.1",
+    "Attest.Tests.NUnit": "1.1.2",
     "LogoFX.Client.Tests.Shared": "1.0.5",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
     "NUnit": "3.2.0"
